@@ -25,7 +25,9 @@ The system consists of several key components:
 ## Example Output
 
 🔍 Validating credentials...
+
 ✅ Authentication successful! Welcome john.doe@example.com
+
 
 --- Incorrect login attempt ---
 ❌ Username must be an email address.
