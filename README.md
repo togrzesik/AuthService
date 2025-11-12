@@ -21,3 +21,13 @@ The system consists of several key components:
 | `User` | Represents user credentials | Builder |
 | `AuthHandler` | Abstract validation chain | Chain of Responsibility |
 | `AuthService` | Coordinates authentication flow | Uses handlers and configuration |
+
+## Example Output
+
+🔍 Validating credentials...
+✅ Authentication successful! Welcome john.doe@example.com
+
+--- Incorrect login attempt ---
+❌ Username must be an email address.
+❌ Password must be at least 8 characters long.
+❌ Authentication failed.
