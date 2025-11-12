@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\.net_t\AuthService\bin\Debug\net8.0\AuthService.exe
+C:\Users\user\Desktop\.net_t\AuthService\bin\Debug\net8.0\AuthService.deps.json
+C:\Users\user\Desktop\.net_t\AuthService\bin\Debug\net8.0\AuthService.runtimeconfig.json
+C:\Users\user\Desktop\.net_t\AuthService\bin\Debug\net8.0\AuthService.dll
+C:\Users\user\Desktop\.net_t\AuthService\bin\Debug\net8.0\AuthService.pdb
+C:\Users\user\Desktop\.net_t\AuthService\obj\Debug\net8.0\AuthService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\.net_t\AuthService\obj\Debug\net8.0\AuthService.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\.net_t\AuthService\obj\Debug\net8.0\AuthService.AssemblyInfo.cs
+C:\Users\user\Desktop\.net_t\AuthService\obj\Debug\net8.0\AuthService.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\.net_t\AuthService\obj\Debug\net8.0\AuthService.dll
+C:\Users\user\Desktop\.net_t\AuthService\obj\Debug\net8.0\refint\AuthService.dll
+C:\Users\user\Desktop\.net_t\AuthService\obj\Debug\net8.0\AuthService.pdb
+C:\Users\user\Desktop\.net_t\AuthService\obj\Debug\net8.0\AuthService.genruntimeconfig.cache
+C:\Users\user\Desktop\.net_t\AuthService\obj\Debug\net8.0\ref\AuthService.dll
