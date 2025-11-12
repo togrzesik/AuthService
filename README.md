@@ -30,6 +30,9 @@ The system consists of several key components:
 
 
 --- Incorrect login attempt ---
+
 ❌ Username must be an email address.
+
 ❌ Password must be at least 8 characters long.
+
 ❌ Authentication failed.
